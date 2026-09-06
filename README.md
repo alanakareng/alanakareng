@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/31887021/README.md)
-💼 Sobre mim<h1 align="center">Olá, eu sou a Alana 👋</h1>
+ align="center">Olá, eu sou a Alana 👋</h1>
 <p align="center">Análise de Dados & Automação de Processos — Cobrança / Contas a Receber</p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 </p>
 
-## 💼 Sobre mim
+##  Sobre mim
 
 Atuo com operações de cobrança e contas a receber em uma SaaS B2B do setor fiscal, com foco em análise de dados e automação de processos. No dia a dia, construo relatórios, dashboards e scripts em Python para apoiar o setor de cobrança, além de dar suporte a clientes e comunicação de cobrança.
 
