@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/31887021/README.md)
- align="center">Olá, eu sou a Alana 👋</h1>
+<h1 align="center">Olá, eu sou a Alana 👋</h1>
 <p align="center">Análise de Dados & Automação de Processos — Cobrança / Contas a Receber</p>
 
 <p align="center">
