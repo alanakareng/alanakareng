@@ -35,12 +35,7 @@ Sou graduanda em Ciências Eaxatas (UFJF) e estou focando minha trajetória em a
 ---
 <p align="center"><i>Aberta a conversas sobre análise de dados, automação e o setor de cobrança/fintech 🙂</i></p>
 
-Atuo com operações de cobrança e contas a receber em uma SaaS B2B do setor fiscal, com foco em análise de dados e automação de processos. No dia a dia, construo relatórios, dashboards e scripts em Python para apoiar o setor de cobrança, além de dar suporte a clientes e comunicação de cobrança.
-Sou graduanda em Física (UFJF) e estou migrando minha trajetória para análise de dados, com interesse crescente em segurança da informação como próximo passo.
-🚀 Em destaque
-Portfólio de Análise de Dados em Cobrança — três projetos que desenvolvi para reduzir trabalho manual, aumentar a precisão de cálculos financeiros e apoiar a redução da inadimplência:
-🔁 Automação do tratamento diário de relatórios de cobrança (Python + pandas)
-💰 Modelagem de uma regra de cálculo de caixa/recuperação sensível ao dia da semana e feriados
+
 📊 Análise cruzando uso de plataforma (SaaS) e inadimplência, com foco em ação preventiva
 🛠️ Tecnologias e ferramentas
 `Python` · `pandas` · `numpy` · `openpyxl` · `matplotlib` / `seaborn` · `Excel avançado (PROCV, SOMASE, tabelas dinâmicas)` · `Power BI`
